@@ -1,3 +1,12 @@
+document.addEventListener("keypress", function(e){
+    if(e.key === "Enter" ){
+        const btn = document.querySelector("#btn");
+
+        btn.click();
+    }
+});
+
+
 let numberToFind = 0;
 let attemps = 0;
 
@@ -36,10 +45,4 @@ function verifyNumber(){
 
 reflesh();
 
-document.addEventListener("keypress", function(e){
-    if(e.key === "Enter" ){
-        const btn = document.querySelector("#bet");
 
-        btn.click();
-    }
-});
