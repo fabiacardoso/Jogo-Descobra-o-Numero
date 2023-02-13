@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/61851602/218550410-571e9278-c397-47bb-a265-ac4c3f571656.png)
 
-**TESTE O JOGO AQUI**
+**TESTE O JOGO AQUI: https://fabiacardoso.github.io/Jogo-Descobra-o-Numero/**
 
 
 ### *Algoritmo:*
