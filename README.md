@@ -4,8 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/61851602/218550410-571e9278-c397-47bb-a265-ac4c3f571656.png)
 
+**TESTE O JOGO AQUI**
 
-*Algoritmo:*
+
+### *Algoritmo:*
 
 *1 - Apresente a mensagem ao usuário:"Advinhe o número que estou pensando? Está entre 1 e 100"*
 
