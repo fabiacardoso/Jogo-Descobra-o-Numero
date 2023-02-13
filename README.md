@@ -29,5 +29,7 @@
 
 ✅ Informa ao usuário se ele digitou um número fora do intervalo previsto;
 
-✅ Limpa o campo input toda vez que o usuário clicar em ok no alert. 
+✅ Limpa o campo input toda vez que o usuário clicar em ok no alert;
+
+✅ É possível submeter o número com o click no botão enviar ou pela tecla enter.
 
